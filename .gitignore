@@ -30,6 +30,7 @@ $RECYCLE.BIN/
 .apdisk
 *.dll
 *.pdb
+*.cache
 .vs/
 # Thumbnails
 ._*

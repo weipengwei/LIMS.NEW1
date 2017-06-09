@@ -243,7 +243,7 @@ namespace LIMS.Web.Controllers
             }
             catch(Exception e)
             {
-                return JsonNet(new ResponseResult(e));
+                return JsonNet(new ResponseResult(e))   ;
             }
         }
     }
